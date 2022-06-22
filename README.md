@@ -8,7 +8,7 @@ When you link your account, it adds you to the server and give a specific role. 
 1. Create a discord application and bot; get CLIENT ID & CLIENT SECRET from OAuth2 Tab<br>
 2. Get your bot token.<br>
 3. Edit file <br>
-3.1 Update your database info (line 2,5,7,10)<br>
+3.1 Update your database info (line 3,5,7,13)<br>
 3.2 Update Client info (line 37,39)<br>
 3.3 Update redirect uri (line 69)<br>
 3.4 Update line 53,131,235,405<br>
